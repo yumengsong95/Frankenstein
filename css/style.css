@@ -8,7 +8,7 @@
 html{
   background-color: var(--cream);
 }
-/*   --- Typographical scales --- 12.8, 16, 22.4, 24, 40, 64... */
+/*   --- Typographical scales --- 12.8, 16, 22.4, 24, 32, 64... */
 body {
   width: 700px;
   margin: 0 auto;
@@ -77,8 +77,8 @@ h1 {
   margin-top: 72px;
 }
 h2 {
-  font-size: 2.5em; /*16px x 2.5 = 40px*/
-  line-height: 1.8; /*40px x 1.8 = 72px*/
+  font-size: 2em; /*16px x 2 = 32px*/
+  line-height: 2.25; /*32px x 2.25 = 72px*/
   margin-left: 36px;
 }
 
